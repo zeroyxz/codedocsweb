@@ -24,7 +24,7 @@ textarea {
 }
 
 .jumbotron {
-    background-image: url('http://codedocs.azureedge.net/images/BannerPR.jpeg');
+    background-image: url('/images/BannerPR.jpeg');
     height: 368px;
 }
 
